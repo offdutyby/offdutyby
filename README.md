@@ -1,4 +1,4 @@
-<img src="https://images.unsplash.com/photo-1545875615-86f54b81a82d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1489&q=80">
+
 
 ### 🙏  반갑습니다, <br>
 ### Frontend Engineer 현정호입니다.
