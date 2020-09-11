@@ -1,7 +1,6 @@
 
 <p align="center">
-   🙏  반갑습니다, <br> Frontend Engineer 현정호입니다.
-  
+ 🙏  반갑습니다, <br> Frontend Engineer 현정호입니다.<br>
  철학을 전공했습니다.<br>
  '사랑하는 일을 하는 것이 자신을 사랑하는 방법' 이라고 생각합니다.<br>
  그렇게 개발을 독학하면서 행복하게 앞으로 나아가고있습니다.<br>
