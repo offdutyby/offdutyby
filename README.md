@@ -1,4 +1,5 @@
-### 🙏  반갑습니다,  Frontend Engineer 현정호입니다.
+### 🙏  반갑습니다, <br>
+### Frontend Engineer 현정호입니다.
 <br>
 
 #### 철학을 전공했습니다.
