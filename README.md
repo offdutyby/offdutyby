@@ -1,5 +1,10 @@
-<h1>안녕하세요,</h1> <br>
-Frontend Engineer 현정호입니다.
+안녕하세요, <br>
+Frontend Engineer 현정호입니다.</br>
+철학을 전공하면서 배운점은 '자신을 사랑하는 법'은 '하고싶은 일을 하게 해주는 것'입니다. </br>
+저는 개발을 독학하며 행복하게 앞으로 나아가고있습니다. </br>
+사용자들에게 사용하기 쉽고,아름다운 서비스를 제공할 수 있는 개발자가 되고싶습니다. </br>
+
+
 
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:offdutybyblo@gmail.com)
