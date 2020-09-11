@@ -1,5 +1,4 @@
-# 안녕하세요~! 
-## Frontend Engineer 현정호입니다.
+## 안녕하세요, Frontend Engineer 현정호입니다.
 
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:offdutybyblo@gmail.com)
