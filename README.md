@@ -1,5 +1,5 @@
 
-<p align="center">
+<p text-align="center">
  <h3>🙏  반갑습니다, <br>Frontend Engineer 현정호입니다.</h3><br>
  철학을 전공했습니다.<br>
  '사랑하는 일을 하는 것이 자신을 사랑하는 방법' 이라고 생각합니다.<br>
