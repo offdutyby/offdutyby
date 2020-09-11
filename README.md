@@ -6,7 +6,7 @@
  그렇게 개발을 독학하면서 행복하게 앞으로 나아가고있습니다.<br>
  항상 겸손하고 열정적으로 배우면서 발전하겠습니다.<br>
 <br>
- <h3>🛠 Skills</h3><br>
+ <h3>🛠 Skills</h3>
  <span>React | Javascript | HTML | Styled-Component | Scss | Git</span>
  
  
