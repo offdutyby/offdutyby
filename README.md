@@ -3,7 +3,6 @@
 
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:offdutybyblo@gmail.com)
-[![Tech Blog Badge](https://images.velog.io/velog.png)](https://velog.io/@offdutybyblo)
 <!--
 **offdutyby/offdutyby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
