@@ -1,5 +1,5 @@
 
-<div align="center">
+<div align="left">
  <h3>🙏  반갑습니다, <br>🧑🏻‍💻 Frontend Engineer 현정호입니다.</h3><br>
  <p>즐겁게 개발하는 환경을 좋아하며, 노력합니다.</p>
  <p>스스로 찾아가며 발전합니다. 1년 넘게 Study를 진행하며, 개인 공부도 꾸준히 진행합니다.</p>
